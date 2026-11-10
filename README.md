@@ -4,6 +4,8 @@ A machine learning project that predicts the risk of cardiovascular disease from
 
 **Live demo:** https://heart-disease-prediction321.streamlit.app/
 <img width="1092" height="700" alt="image" src="https://github.com/user-attachments/assets/95cb8116-90cf-449e-bc82-3bad73099cc2" />
+<img width="967" height="202" alt="image" src="https://github.com/user-attachments/assets/e6958f02-4c83-4a52-a88d-e34ed02c933a" />
+
 
 
 >  This is a student project for learning purposes. It is **not** a medical diagnosis tool.
