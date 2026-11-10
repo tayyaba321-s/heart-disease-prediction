@@ -2,7 +2,7 @@
 
 A machine learning project that predicts the risk of cardiovascular disease from basic health measurements, with a web app built using Streamlit.
 
-**Live demo:** _add your streamlit.app link here after deployment_
+**Live demo:** https://heart-disease-prediction321.streamlit.app/
 
 >  This is a student project for learning purposes. It is **not** a medical diagnosis tool.
 
