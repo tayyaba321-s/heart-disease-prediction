@@ -1,0 +1,14 @@
+,ANOVA_F,Mutual_Info,RandomForest,RFE,Total_Votes
+age,1,1,1,1,4
+ap_hi,1,1,1,1,4
+weight,1,1,1,1,4
+cholesterol,1,1,1,1,4
+ap_lo,1,1,1,1,4
+bmi,1,1,1,1,4
+pulse_pressure,1,1,1,1,4
+gluc,1,1,0,0,2
+height,0,0,1,0,1
+active,0,0,0,1,1
+gender,0,0,0,0,0
+smoke,0,0,0,0,0
+alco,0,0,0,0,0
